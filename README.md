@@ -36,7 +36,7 @@
       </div>
     </div>
   </div>
-        <h1 style="color:aliceblue; margin-left: 44%; font-size: xxx-large;"  >رمضان كريم</h1>
+<!--         <h1 style="color:aliceblue; margin-left: 44%; font-size: xxx-large;"  >رمضان كريم</h1> -->
 
   <div>
   
