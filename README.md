@@ -1,6 +1,4 @@
-# fanous_rmadan
 
-<!DOCTYPE html>
 <html>
 <head>
     <title></title>
