@@ -1,7 +1,7 @@
 
 <html>
 <head>
-    <title></title>
+   
     <meta http-equiv="refresh" content="10">
 </head>
 <body>
